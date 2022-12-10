@@ -10,3 +10,11 @@ If you get "invalid command line parameter: -tod" that means you aren't using a 
 If you have any bugs/requests, send me a DM on Discord at "Little9070#3932". (Caps sensitive)
 
 GUI coming soon.
+
+# To do:
+
+Add a GUI
+
+Switch to Python
+
+Polish my messy code
